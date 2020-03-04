@@ -302,9 +302,9 @@ action keybinding</note>
         <source xml:lang="en">Warning: {0}</source>
         <target xml:lang="fr" state="translated">Avertissement : {0}</target>
       </trans-unit>
-      <trans-unit id="alertInfoMessage">
+      <trans-unit id="alertInfoMessage" approved="yes">
         <source xml:lang="en">Info: {0}</source>
-        <target xml:lang="fr" state="translated">Info : {0}</target>
+        <target xml:lang="fr" state="final">Info : {0}</target>
       </trans-unit>
     </body>
   </file>
@@ -354,9 +354,9 @@ action keybinding</note>
         <source xml:lang="en">Application Menu</source>
         <target xml:lang="fr" state="translated">Menu de l'application</target>
       </trans-unit>
-      <trans-unit id="mMore">
+      <trans-unit id="mMore" approved="yes">
         <source xml:lang="en">More</source>
-        <target xml:lang="fr" state="translated">plus</target>
+        <target xml:lang="fr" state="final">plus</target>
       </trans-unit>
     </body>
   </file>
