@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
-        <target xml:lang="ko" state="needs-translation">An unknown error occurred. Please consult the log for more details.</target>
+        <target xml:lang="ko" state="translated">Provided UI translation_Not Approved.</target>
       </trans-unit>
       <trans-unit id="error.moreErrors">
         <source xml:lang="en">{0} ({1} errors in total)</source>
@@ -38,7 +38,7 @@
   </file>
   <file original="src/vs/base/node/zip" source-language="en" datatype="plaintext" target-language="ko">
     <body>
-      <trans-unit id="invalid file">
+      <trans-unit id="invalid file" approved="yes">
         <source xml:lang="en">Error extracting {0}. Invalid file.</source>
         <target xml:lang="ko" state="final">Pause_Sync:Updated state to Final and provided Translation in GH Master </target>
       </trans-unit>
