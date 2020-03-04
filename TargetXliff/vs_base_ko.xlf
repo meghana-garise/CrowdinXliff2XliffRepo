@@ -40,11 +40,11 @@
     <body>
       <trans-unit id="invalid file">
         <source xml:lang="en">Error extracting {0}. Invalid file.</source>
-        <target xml:lang="ko" state="needs-translation">Error extracting {0}. Invalid file.</target>
+        <target xml:lang="ko" state="final">Pause_Sync:Updated state to Final and provided Translation in GH Master </target>
       </trans-unit>
       <trans-unit id="incompleteExtract">
         <source xml:lang="en">Incomplete. Found {0} of {1} entries</source>
-        <target xml:lang="ko" state="needs-translation">Incomplete. Found {0} of {1} entries</target>
+        <target xml:lang="ko" state="translated">Updated State to Translated in Master</target>
       </trans-unit>
       <trans-unit id="notFound">
         <source xml:lang="en">{0} not found inside zip.</source>
