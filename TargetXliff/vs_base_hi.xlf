@@ -2,13 +2,13 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="src/vs/base/common/severity" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="sev.error">
+      <trans-unit id="sev.error" approved="yes">
         <source xml:lang="en">Error</source>
-        <target xml:lang="hi" state="translated">एरर</target>
+        <target xml:lang="hi" state="final">एरर</target>
       </trans-unit>
-      <trans-unit id="sev.warning">
+      <trans-unit id="sev.warning" approved="yes">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="hi" state="translated">चेतावनी</target>
+        <target xml:lang="hi" state="final">चेतावनी</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
@@ -22,17 +22,17 @@
         <source xml:lang="en">{0}: {1}</source>
         <target xml:lang="hi" state="needs-translation">{0}: {1}</target>
       </trans-unit>
-      <trans-unit id="nodeExceptionMessage">
+      <trans-unit id="nodeExceptionMessage" approved="yes">
         <source xml:lang="en">A system error occurred ({0})</source>
-        <target xml:lang="hi" state="translated">एक सिस्टम त्रुटि हुई है ({0})</target>
+        <target xml:lang="hi" state="final">एक सिस्टम त्रुटि हुई है ({0})</target>
       </trans-unit>
-      <trans-unit id="error.defaultMessage">
+      <trans-unit id="error.defaultMessage" approved="yes">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
-        <target xml:lang="hi" state="translated">एक अज्ञात त्रुटि हुई है। कृपया अधिक जानकारी के लिए लॉग देखें।</target>
+        <target xml:lang="hi" state="final">एक अज्ञात त्रुटि हुई है। कृपया अधिक जानकारी के लिए लॉग देखें।</target>
       </trans-unit>
-      <trans-unit id="error.moreErrors">
+      <trans-unit id="error.moreErrors" approved="yes">
         <source xml:lang="en">{0} ({1} errors in total)</source>
-        <target xml:lang="hi" state="translated">{0} (कुल में {1} त्रुटियां) </target>
+        <target xml:lang="hi" state="final">{0} (कुल में {1} त्रुटियां) </target>
       </trans-unit>
     </body>
   </file>
@@ -54,19 +54,19 @@
   </file>
   <file original="src/vs/base/node/processes" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="TaskRunner.UNC">
+      <trans-unit id="TaskRunner.UNC" approved="yes">
         <source xml:lang="en">Can't execute a shell command on a UNC drive.</source>
-        <target xml:lang="hi" state="translated">किसी UNC ड्राइव पर कोई शेल आदेश निष्पादित नहीं कर सकता । </target>
+        <target xml:lang="hi" state="final">किसी UNC ड्राइव पर कोई शेल आदेश निष्पादित नहीं कर सकता । </target>
       </trans-unit>
     </body>
   </file>
   <file original="src/vs/base/browser/ui/actionbar/actionbar" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="titleLabel_Duplicated1">
+      <trans-unit id="titleLabel_Duplicated1" approved="yes">
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="hi" state="translated">{0} ({1}) </target>
+        <target xml:lang="hi" state="final">{0} ({1}) </target>
       </trans-unit>
     </body>
   </file>
@@ -119,20 +119,20 @@ action keybinding</note>
         <note>This is the short form for the Alt key on the keyboard</note>
         <target xml:lang="hi" state="needs-translation">Alt</target>
       </trans-unit>
-      <trans-unit id="windowsKey">
+      <trans-unit id="windowsKey" approved="yes">
         <source xml:lang="en">Windows</source>
         <note>This is the short form for the Windows key on the keyboard</note>
-        <target xml:lang="hi" state="translated">विंडोज़ </target>
+        <target xml:lang="hi" state="final">विंडोज़ </target>
       </trans-unit>
-      <trans-unit id="superKey">
+      <trans-unit id="superKey" approved="yes">
         <source xml:lang="en">Super</source>
         <note>This is the short form for the Super key on the keyboard</note>
-        <target xml:lang="hi" state="translated">सुपर </target>
+        <target xml:lang="hi" state="final">सुपर </target>
       </trans-unit>
-      <trans-unit id="ctrlKey.long">
+      <trans-unit id="ctrlKey.long" approved="yes">
         <source xml:lang="en">Control</source>
         <note>This is the long form for the Control key on the keyboard</note>
-        <target xml:lang="hi" state="translated">कंट्रोल</target>
+        <target xml:lang="hi" state="final">कंट्रोल</target>
       </trans-unit>
       <trans-unit id="shiftKey.long">
         <source xml:lang="en">Shift</source>
@@ -149,23 +149,23 @@ action keybinding</note>
         <note>This is the long form for the Command key on the keyboard</note>
         <target xml:lang="hi" state="needs-translation">Command</target>
       </trans-unit>
-      <trans-unit id="windowsKey.long">
+      <trans-unit id="windowsKey.long" approved="yes">
         <source xml:lang="en">Windows</source>
         <note>This is the long form for the Windows key on the keyboard</note>
-        <target xml:lang="hi" state="translated">विंडोज़ </target>
+        <target xml:lang="hi" state="final">विंडोज़ </target>
       </trans-unit>
-      <trans-unit id="superKey.long">
+      <trans-unit id="superKey.long" approved="yes">
         <source xml:lang="en">Super</source>
         <note>This is the long form for the Super key on the keyboard</note>
-        <target xml:lang="hi" state="translated">सुपर </target>
+        <target xml:lang="hi" state="final">सुपर </target>
       </trans-unit>
     </body>
   </file>
   <file original="src/vs/base/browser/ui/aria/aria" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="repeated">
+      <trans-unit id="repeated" approved="yes">
         <source xml:lang="en">{0} (occurred again)</source>
-        <target xml:lang="hi" state="translated">{0} (पुन: उत्पंन हुआ) </target>
+        <target xml:lang="hi" state="final">{0} (पुन: उत्पंन हुआ) </target>
       </trans-unit>
       <trans-unit id="repeatedNtimes">
         <source xml:lang="en">{0} (occurred {1} times)</source>
@@ -175,11 +175,11 @@ action keybinding</note>
   </file>
   <file original="src/vs/base/browser/ui/menu/menu" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="titleLabel_Duplicated2">
+      <trans-unit id="titleLabel_Duplicated2" approved="yes">
         <source xml:lang="en">{0} ({1})</source>
         <note>action title
 action keybinding</note>
-        <target xml:lang="hi" state="translated">{0} ({1}) </target>
+        <target xml:lang="hi" state="final">{0} ({1}) </target>
       </trans-unit>
     </body>
   </file>
@@ -193,17 +193,17 @@ action keybinding</note>
   </file>
   <file original="src/vs/base/browser/ui/list/listWidget" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="aria list">
+      <trans-unit id="aria list" approved="yes">
         <source xml:lang="en">{0}. Use the navigation keys to navigate.</source>
-        <target xml:lang="hi" state="translated">{0}. नेविगेट करने के लिए नेविगेशन कुंजियों का उपयोग करें । </target>
+        <target xml:lang="hi" state="final">{0}. नेविगेट करने के लिए नेविगेशन कुंजियों का उपयोग करें । </target>
       </trans-unit>
     </body>
   </file>
   <file original="src/vs/base/common/jsonErrorMessages" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="error.invalidSymbol">
+      <trans-unit id="error.invalidSymbol" approved="yes">
         <source xml:lang="en">Invalid symbol</source>
-        <target xml:lang="hi" state="translated">अमान्य चिन्ह</target>
+        <target xml:lang="hi" state="final">अमान्य चिन्ह</target>
       </trans-unit>
       <trans-unit id="error.invalidNumberFormat">
         <source xml:lang="en">Invalid number format</source>
@@ -217,17 +217,17 @@ action keybinding</note>
         <source xml:lang="en">Value expected</source>
         <target xml:lang="hi" state="needs-translation">Value expected</target>
       </trans-unit>
-      <trans-unit id="error.colonExpected">
+      <trans-unit id="error.colonExpected" approved="yes">
         <source xml:lang="en">Colon expected</source>
-        <target xml:lang="hi" state="translated">कोलन ( : ) की अपेक्षा </target>
+        <target xml:lang="hi" state="final">कोलन ( : ) की अपेक्षा </target>
       </trans-unit>
-      <trans-unit id="error.commaExpected">
+      <trans-unit id="error.commaExpected" approved="yes">
         <source xml:lang="en">Comma expected</source>
-        <target xml:lang="hi" state="translated">अल्पविराम  ( , ) अपेक्षित </target>
+        <target xml:lang="hi" state="final">अल्पविराम  ( , ) अपेक्षित </target>
       </trans-unit>
-      <trans-unit id="error.closeBraceExpected">
+      <trans-unit id="error.closeBraceExpected" approved="yes">
         <source xml:lang="en">Closing brace expected</source>
-        <target xml:lang="hi" state="translated">} की अपेक्षा </target>
+        <target xml:lang="hi" state="final">} की अपेक्षा </target>
       </trans-unit>
       <trans-unit id="error.closeBracketExpected">
         <source xml:lang="en">Closing bracket expected</source>
@@ -241,9 +241,9 @@ action keybinding</note>
   </file>
   <file original="src/vs/base/browser/ui/toolbar/toolbar" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="moreActions">
+      <trans-unit id="moreActions" approved="yes">
         <source xml:lang="en">More Actions...</source>
-        <target xml:lang="hi" state="translated">और क्रियाएं... </target>
+        <target xml:lang="hi" state="final">और क्रियाएं... </target>
       </trans-unit>
     </body>
   </file>
@@ -310,13 +310,13 @@ action keybinding</note>
   </file>
   <file original="src/vs/base/browser/ui/findinput/findInputCheckboxes" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="caseDescription">
+      <trans-unit id="caseDescription" approved="yes">
         <source xml:lang="en">Match Case</source>
-        <target xml:lang="hi" state="translated">केस मिलाये</target>
+        <target xml:lang="hi" state="final">केस मिलाये</target>
       </trans-unit>
-      <trans-unit id="wordsDescription">
+      <trans-unit id="wordsDescription" approved="yes">
         <source xml:lang="en">Match Whole Word</source>
-        <target xml:lang="hi" state="translated">पूरा शब्द मिलाएं </target>
+        <target xml:lang="hi" state="final">पूरा शब्द मिलाएं </target>
       </trans-unit>
       <trans-unit id="regexDescription">
         <source xml:lang="en">Use Regular Expression</source>
