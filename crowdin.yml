@@ -1,0 +1,3 @@
+files:
+  - source: /SourceXliff/vs_base_en.xlf
+    translation: /TargetXliff/vs_base_%two_letters_code%.xlf
