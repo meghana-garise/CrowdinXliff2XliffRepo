@@ -10,9 +10,9 @@
         <source xml:lang="en">Warning</source>
         <target xml:lang="ko" state="final">WarningTestMG</target>
       </trans-unit>
-      <trans-unit id="sev.info">
+      <trans-unit id="sev.info" approved="yes">
         <source xml:lang="en">Info</source>
-        <target xml:lang="ko" state="needs-translation">Info</target>
+        <target xml:lang="ko" state="final">InfoTestMG. GMAIL</target>
       </trans-unit>
     </body>
   </file>
