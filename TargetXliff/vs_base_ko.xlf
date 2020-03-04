@@ -2,9 +2,9 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="src/vs/base/common/severity" source-language="en" datatype="plaintext" target-language="ko">
     <body>
-      <trans-unit id="sev.error">
+      <trans-unit id="sev.error" approved="yes">
         <source xml:lang="en">Error</source>
-        <target xml:lang="ko" state="needs-translation">Error</target>
+        <target xml:lang="ko" state="final">TestKoreanErrorMG</target>
       </trans-unit>
       <trans-unit id="sev.warning">
         <source xml:lang="en">Warning</source>
