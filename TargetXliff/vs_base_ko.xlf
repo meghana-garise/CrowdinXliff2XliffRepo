@@ -6,9 +6,9 @@
         <source xml:lang="en">Error</source>
         <target xml:lang="ko" state="final">TestKoreanErrorMG</target>
       </trans-unit>
-      <trans-unit id="sev.warning">
+      <trans-unit id="sev.warning" approved="yes">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="ko" state="needs-translation">Warning</target>
+        <target xml:lang="ko" state="final">WarningTestMG</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
