@@ -10,9 +10,9 @@
         <source xml:lang="en">Warning</source>
         <target xml:lang="fr" state="translated">Avertissement</target>
       </trans-unit>
-      <trans-unit id="sev.info">
+      <trans-unit id="sev.info" approved="yes">
         <source xml:lang="en">Info</source>
-        <target xml:lang="fr" state="needs-translation">Info</target>
+        <target xml:lang="fr" state="final">TestFrench translation</target>
       </trans-unit>
     </body>
   </file>
