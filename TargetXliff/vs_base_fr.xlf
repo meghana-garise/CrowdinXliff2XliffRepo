@@ -40,7 +40,7 @@
     <body>
       <trans-unit id="invalid file">
         <source xml:lang="en">Error extracting {0}. Invalid file.</source>
-        <target state="translated">Erreur à l'extraction de {0}. Fichier non valide.</target>
+        <target state="translated">TestMeghana Erreur à l'extraction de {0}. Fichier non valide.</target>
       </trans-unit>
       <trans-unit id="incompleteExtract">
         <source xml:lang="en">Incomplete. Found {0} of {1} entries</source>
