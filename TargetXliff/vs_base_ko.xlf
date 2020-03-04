@@ -24,11 +24,11 @@
       </trans-unit>
       <trans-unit id="nodeExceptionMessage">
         <source xml:lang="en">A system error occurred ({0})</source>
-        <target xml:lang="ko" state="final">PauseSync_Scenario: Updated state to Final and provided Translation in GH Master Repo_({0})</target>
+        <target xml:lang="ko" state="needs-translation">A system error occurred ({0})</target>
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
-        <target xml:lang="ko" state="final">Pause_Sync: Final_updated string with an existing Community user translation.</target>
+        <target xml:lang="ko" state="translated">Provided UI translation_Not Approved.</target>
       </trans-unit>
       <trans-unit id="error.moreErrors">
         <source xml:lang="en">{0} ({1} errors in total)</source>
