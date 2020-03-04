@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="error.defaultMessage">
         <source xml:lang="en">An unknown error occurred. Please consult the log for more details.</source>
-        <target xml:lang="ko" state="needs-translation">An unknown error occurred. Please consult the log for more details.</target>
+        <target xml:lang="ko" state="final">Pause_Sync: Final_updated string with an existing Community user translation.</target>
       </trans-unit>
       <trans-unit id="error.moreErrors">
         <source xml:lang="en">{0} ({1} errors in total)</source>
