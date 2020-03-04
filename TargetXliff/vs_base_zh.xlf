@@ -6,9 +6,9 @@
         <source xml:lang="en">Error</source>
         <target xml:lang="zh-CN" state="translated">Errorchinese</target>
       </trans-unit>
-      <trans-unit id="sev.warning">
+      <trans-unit id="sev.warning" approved="yes">
         <source xml:lang="en">Warning</source>
-        <target xml:lang="zh-CN" state="translated">警告</target>
+        <target xml:lang="zh-CN" state="final">警告</target>
       </trans-unit>
       <trans-unit id="sev.info">
         <source xml:lang="en">Info</source>
@@ -342,9 +342,9 @@ action keybinding</note>
         <source xml:lang="en">No elements found</source>
         <target xml:lang="zh-CN" state="translated">未找到元素</target>
       </trans-unit>
-      <trans-unit id="found">
+      <trans-unit id="found" approved="yes">
         <source xml:lang="en">Matched {0} out of {1} elements</source>
-        <target xml:lang="zh-CN" state="translated">已匹配 {0} 个元素(共 {1} 个)</target>
+        <target xml:lang="zh-CN" state="final">已匹配 {0} 个元素(共 {1} 个)</target>
       </trans-unit>
     </body>
   </file>
