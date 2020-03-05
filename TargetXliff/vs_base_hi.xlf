@@ -54,9 +54,9 @@
   </file>
   <file original="src/vs/base/node/processes" source-language="en" datatype="plaintext" target-language="hi">
     <body>
-      <trans-unit id="TaskRunner.UNC" approved="yes">
-        <source xml:lang="en">Can't execute a shell command on a UNC drive.</source>
-        <target xml:lang="hi" state="final">किसी UNC ड्राइव पर कोई शेल आदेश निष्पादित नहीं कर सकता । </target>
+      <trans-unit id="TaskRunner.UNC">
+        <source xml:lang="en">Meghana updated the source string in Master.</source>
+        <target xml:lang="hi" state="needs-translation">Meghana updated the source string in Master.</target>
       </trans-unit>
     </body>
   </file>
