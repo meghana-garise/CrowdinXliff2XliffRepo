@@ -58,8 +58,8 @@
   <file original="src/vs/base/node/processes" source-language="en" datatype="plaintext" target-language="fr">
     <body>
       <trans-unit id="TaskRunner.UNC">
-        <source xml:lang="en">Can't execute a shell command on a UNC drive.</source>
-        <target xml:lang="fr" state="translated">Impossible d'exécuter une commande d'interpréteur de commandes sur un lecteur UNC.</target>
+        <source xml:lang="en">Meghana updated the source string in Master.</source>
+        <target xml:lang="fr" state="needs-translation">Meghana updated the source string in Master.</target>
       </trans-unit>
     </body>
   </file>
